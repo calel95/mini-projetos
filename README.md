@@ -1,7 +1,7 @@
 # mini-projetos
 
 ### Objetivo
-  Contar as palavras do arquivo livro.txt e armazenar o resultado na pasta resultado
+  Contar as palavras do arquivo livro.txt e armazenar o resultado na pasta resultado classificando as 10 palavras mais presentes no arquivo livro.
 
 
 - Clonar o repositório do git com o comando git clone <endereco_HTTPS>
